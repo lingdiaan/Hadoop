@@ -1,0 +1,5 @@
+com\yj\hdfs\mapReducer\wordCount\WordCountDriver.class
+com\yj\hdfs\mapReducer\wordCount\WordCountMapper.class
+com\yj\hdfs\MapReducerTest.class
+com\yj\hdfs\mapReducer\wordCount\WordCountReducer.class
+com\yj\hdfs\HdfsClient.class
